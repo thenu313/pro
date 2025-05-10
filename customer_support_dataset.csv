@@ -1,0 +1,11 @@
+Query,Response,Intent,Sentiment
+How do I reset my password?,You can reset your password by clicking 'Forgot Password' on the login page.,Account Recovery,Neutral
+What are your support hours?,Our support team is available 24/7.,General Info,Positive
+My order hasn't arrived yet.,"I apologize for the delay. Please share your order ID, and I will check the status for you.",Order Status,Negative
+Can I get a refund?,Of course! Please provide your order details to proceed with the refund.,Refund,Neutral
+Where can I track my order?,You can track your order in the 'My Orders' section of your account.,Order Tracking,Neutral
+How do I change my account details?,You can update your account details in the 'Account Settings' section.,Account Management,Neutral
+What is your return policy?,Our return policy allows for returns within 30 days of purchase. Contact us for more details.,Return Policy,Neutral
+Can I speak to a human agent?,Connecting you to a human agent. Please hold.,Live Agent Request,Neutral
+How do I cancel my subscription?,You can cancel your subscription in the 'My Account' section or contact support for assistance.,Subscription Management,Neutral
+Is my personal information secure?,"Yes, we use advanced encryption to protect your personal information.",Security,Positive
